@@ -1,0 +1,7 @@
+name: Waypoint
+version: '${project.version}'
+main: top.onlyacat233.waypoint.Waypoint
+api-version: 1.16
+authors: [ Onlyacat233 ]
+description: A plugin can help you to get into somewhere you've been there
+website: onlyacat233.top
